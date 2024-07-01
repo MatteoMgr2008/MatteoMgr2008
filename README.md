@@ -1,3 +1,7 @@
+<style>
+  background-color=white;
+</style>
+
 <h1 align="center">Hi 👋, I'm Matteo Magrino🇮🇹</h1>
 <h3 align="center">An 🇮🇹Italian🇮🇹 student (and developer in free time) of IT and telecommunications</h3>
 
