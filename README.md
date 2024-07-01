@@ -1,10 +1,7 @@
 <h1 align="center">Hi 👋, I'm Matteo Magrino🇮🇹</h1>
 <h3 align="center">An 🇮🇹Italian student🇮🇹 (and developer in free time) of IT and telecommunications</h3>
 
-<div style="display: flex; align-items: center;">
-  <img alt="Coding" width="400" src="https://www.globalnerdy.com/wp-content/uploads/2020/11/javascript-is-olive-oil-for-developers.jpg">
-  <img alt="Another Coding Image" width="400" src="https://www.thecoderpedia.com/wp-content/uploads/2020/06/Coding-Meme-Code-Comments-be-Like.jpg">
-</div>
+<img alt="Coding" width="400" src="https://i.pinimg.com/originals/a2/8c/1f/a28c1fcf0708f88fc1bb6d7f95d355ae.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=matteomgr2008&label=Profile%20views&color=0e75b6&style=flat" alt="matteomgr2008" /> </p>
 
