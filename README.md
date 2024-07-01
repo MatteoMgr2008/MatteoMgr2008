@@ -11,15 +11,15 @@
 
 - 🔭 I’m currently working on **My PC**
 
-- 🌱 I’m currently learning **Python, HTML, CSS, JS, C, C++**
+- 🌱 I’m currently learning **Python, HTML, CSS, JS, C & C++**
 
 - 👯 I’m looking to collaborate on [Gruppo di informatica e di robotica "int theprodev;" 2°D INFO](https://github.com/Istituto-freudinttheprodev)
 
-- 🤝 I’m looking for help with **Nobody... depends**
+- 🤝 I’m looking for help with **Nobody... depends!**
 
-- 👨‍💻 All of my projects are available at [My Github Profile (Here in this page)](https://github.com/MatteoMgr2008)
+- 👨‍💻 All of my projects are available at [My Github Profile (here in this page)](https://github.com/MatteoMgr2008)
 
-- 📝 I regularly write articles on **My mind when I'm in bathroom and while i doing...**
+- 📝 I regularly write articles in **My mind when I'm in bathroom and while i doing...**
 
 - 💬 Ask me about **How to make a pizza🍕... no joke, I'm not a pizza chef**
 
