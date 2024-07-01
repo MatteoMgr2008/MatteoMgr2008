@@ -17,13 +17,13 @@
 
 - 🤝 I’m looking for help with **Nobody... depends**
 
-- 👨‍💻 All of my projects are available at [My Github Profile (Here)](https://github.com/MatteoMgr2008)
+- 👨‍💻 All of my projects are available at [My Github Profile (Here in this page)](https://github.com/MatteoMgr2008)
 
-- 📝 I regularly write articles on [My mind](My mind)
+- 📝 I regularly write articles on **My mind when I'm in bathroom and while i doing...**
 
 - 💬 Ask me about **How to make a pizza🍕... no joke, I'm not a pizza chef**
 
-- 📄 Know about my experiences [World record for sitting on a chair... maybe?](World record for sitting on a chair... maybe?)
+- 📄 Know about my experiences **World record for sitting on a chair... maybe?**
 
 - ⚡ Fun fact **I never remember to put the ";" at the end of a line of code😅**
 
