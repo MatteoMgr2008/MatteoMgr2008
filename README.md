@@ -7,6 +7,8 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=matteomgr2008" alt="matteomgr2008" /></a> </p>
 
+<h3 align="left">Some of my curiosities:</h3>
+
 - 🔭 I’m currently working on **My PC**
 
 - 🌱 I’m currently learning **Python, HTML, CSS, JS, C, C++**
