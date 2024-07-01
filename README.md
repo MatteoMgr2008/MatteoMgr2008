@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Matteo Magrino</h1>
-<h3 align="center">An Italian student (and developer in free time) of IT and telecommunications</h3>
+<h1 align="center">Hi 👋, I'm Matteo Magrino🇮🇹</h1>
+<h3 align="center">An 🇮🇹Italian🇮🇹 student (and developer in free time) of IT and telecommunications</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=matteomgr2008&label=Profile%20views&color=0e75b6&style=flat" alt="matteomgr2008" /> </p>
 
