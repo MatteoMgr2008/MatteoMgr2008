@@ -19,9 +19,9 @@
 
 - 👨‍💻 All of my projects are available at [My Github Profile (here in this page)](https://github.com/MatteoMgr2008)
 
-- 📝 I regularly write articles in **My mind when I'm in bathroom and while i doing...**
+- 📝 I regularly write articles in **My mind when I'm in bathroom and while i doing the...**
 
-- 💬 Ask me about **How to make a pizza🍕... no joke, I'm not a pizza chef**
+- 💬 Ask me about **How to make a pizza🍕... no it's a joke, I'm not a pizza chef**
 
 - 📄 Know about my experiences **World record for sitting on a chair... maybe?**
 
