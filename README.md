@@ -105,7 +105,7 @@
   <!-- Statistiche linguaggi con margine sotto -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=matteomgr2008&show_icons=true&locale=en&layout=compact" alt="Top Languages" style="margin-bottom: 10px;" />
 
-  <br><br>
+  <br>
 
   <!-- Statistiche generali -->
   <img src="https://github-readme-stats.vercel.app/api?username=matteomgr2008&show_icons=true&locale=en" alt="GitHub Stats" style="margin-bottom: 10px;" />
