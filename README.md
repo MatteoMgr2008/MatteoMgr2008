@@ -99,10 +99,21 @@
 
 <br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=matteomgr2008&show_icons=true&locale=en&layout=compact" alt="matteomgr2008" /></p>
+<!-- Container allineato a sinistra -->
+<div align="left">
 
-<br>
+  <!-- Statistiche linguaggi con margine sotto -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=matteomgr2008&show_icons=true&locale=en&layout=compact" alt="Top Languages" style="margin-bottom: 10px;" />
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=matteomgr2008&show_icons=true&locale=en" alt="matteomgr2008" /></p>
+  <br><br>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=matteomgr2008&" alt="matteomgr2008" /></p>
+  <!-- Statistiche generali -->
+  <img src="https://github-readme-stats.vercel.app/api?username=matteomgr2008&show_icons=true&locale=en" alt="GitHub Stats" style="margin-bottom: 10px;" />
+
+  <br><br>
+
+  <!-- Streak stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=matteomgr2008" alt="GitHub Streak" />
+
+</div>
+
