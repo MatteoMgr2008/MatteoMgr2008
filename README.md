@@ -110,7 +110,7 @@
   <!-- Statistiche generali -->
   <img src="https://github-readme-stats.vercel.app/api?username=matteomgr2008&show_icons=true&locale=en" alt="GitHub Stats" style="margin-bottom: 10px;" />
 
-  <br><br>
+  <br>
 
   <!-- Streak stats -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=matteomgr2008" alt="GitHub Streak" />
