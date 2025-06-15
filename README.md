@@ -97,9 +97,7 @@
     </a>
 </p>
 
-<br>
-
-<h3 align="left">My GitHub Profile Stats</h3>
+<h3 align="left">My GitHub Profile Stats:</h3>
 
 <!-- Container allineato a sinistra -->
 <div align="left">
