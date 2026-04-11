@@ -140,14 +140,15 @@
 ![Snake animation](https://github.com/MatteoMgr2008/MatteoMgr2008/blob/output/github-contribution-grid-snake.svg)
  
 > ⚠️ Per la snake animation serve configurare una GitHub Action apposita (vedi sotto).
+ -->
  
 ---
  
 ### 📈 GitHub Extra Stats (WakaTime / ora):
- 
-> Se usi WakaTime nel tuo editor, aggiungi questo banner dopo aver collegato l'account:
-> 
-> `[![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=IL_TUO_WAKATIME_USERNAME&theme=tokyonight)](https://wakatime.com/@IL_TUO_WAKATIME_USERNAME)`
+
+<a href="https://wakatime.com/@matteomgr2008">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=matteomgr2008&theme=tokyonight&border_color=7480ff&bg_color=0d1117&title_color=7480ff&icon_color=7480ff" width="800" />
+</a>
  
 ---
  
@@ -155,4 +156,4 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
 </p>
  
--->
+
