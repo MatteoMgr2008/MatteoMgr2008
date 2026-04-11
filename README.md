@@ -7,9 +7,13 @@
  
 ### 👀 About my GitHub profile:
 
-[![Profile Views](https://komarev.com/ghpvc/?username=matteomgr2008&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/MatteoMgr2008)
+<a href="https://github.com/MatteoMgr2008">
+  <img src="https://komarev.com/ghpvc/?username=matteomgr2008&label=Profile%20views&color=0e75b6&style=flat" width="100%" />
+</a>
  
-[![Trophy](https://github-profile-trophy.vercel.app/?username=matteomgr2008&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=matteomgr2008&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4&row=1&column=7" width="100%" />
+</a>
 
 ---
  
