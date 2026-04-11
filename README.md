@@ -3,7 +3,9 @@
 
 <img alt="Coding" width="1400" src="https://i.pinimg.com/originals/a2/8c/1f/a28c1fcf0708f88fc1bb6d7f95d355ae.jpg">
 
-<h3 align="left">About my GitHub profile:</h3>
+---
+ 
+### 👀 About my GitHub profile:
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=matteomgr2008&label=Profile%20views&color=0e75b6&style=flat" alt="matteomgr2008" /> </p>
 
