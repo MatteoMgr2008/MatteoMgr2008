@@ -97,8 +97,6 @@
     </a>
 </p>
 
-<h3 align="left">My GitHub profile stats:</h3>
- 
 ---
  
 ### 📊 My GitHub profile stats:
