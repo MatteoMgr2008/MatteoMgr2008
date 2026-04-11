@@ -11,8 +11,8 @@
   <img src="https://komarev.com/ghpvc/?username=matteomgr2008&label=Profile%20views&color=0e75b6&style=flat" width="100%" />
 </a>
  
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=matteomgr2008&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4&row=1&column=7" width="100%" />
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=matteomgr2008&show_icons=true&locale=en&layout=compact&theme=tokyonight&border_color=7480ff&bg_color=0d1117&title_color=7480ff&icon_color=7480ff" width="100%" />
 </a>
 
 ---
