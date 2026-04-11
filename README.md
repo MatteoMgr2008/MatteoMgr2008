@@ -133,7 +133,7 @@
  
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=matteomgr2008&theme=tokyo-night&bg_color=0d1117&color=7480ff&line=7480ff&point=7480ff&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
  
----
+<!-- ---
  
 ### 🐍 Contribution Snake:
  
@@ -155,3 +155,4 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
 </p>
  
+-->
