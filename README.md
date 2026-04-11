@@ -7,11 +7,13 @@
  
 ### 👀 About my GitHub profile:
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=matteomgr2008&label=Profile%20views&color=0e75b6&style=flat" alt="matteomgr2008" /> </p>
+[![Profile Views](https://komarev.com/ghpvc/?username=matteomgr2008&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/MatteoMgr2008)
+ 
+[![Trophy](https://github-profile-trophy.vercel.app/?username=matteomgr2008&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=matteomgr2008" alt="matteomgr2008" /></a> </p>
-
-<h3 align="left">Some of my curiosities:</h3>
+---
+ 
+### 🔍 Some of my curiosities:
 
 - 🔭 I’m currently working on **My PC**
 
@@ -31,14 +33,20 @@
 
 - ⚡ Fun fact **I never remember to put the ";" at the end of a line of code😅**
 
-<h3 align="left">My social and community accounts:</h3>
+---
+ 
+### 🌐 My social and community accounts:
+
 <p align="left">
 <a href="https://stackoverflow.com/users/25894280" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="25894280" height="30" width="40" /></a>
 <a href="https://kaggle.com/matteomgr2008" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="matteomgr2008" height="30" width="40" /></a>
 <a href="https://medium.com/@matteo.mgr08" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@matteo.mgr08" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+---
+ 
+### 🛠️ Languages and Tools:
+
 <p align="left">
     <a href="https://developer.android.com" target="_blank" rel="noreferrer" style="text-decoration: none;">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
