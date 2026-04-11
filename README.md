@@ -146,8 +146,14 @@
  
 ### 📈 GitHub Extra Stats (WakaTime / ora):
 
-<a href="https://wakatime.com/@matteomgr2008">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=matteomgr2008&theme=tokyonight&border_color=7480ff&bg_color=0d1117&title_color=7480ff&icon_color=7480ff" width="800" />
+<!-- WakaTime Total Time Badge -->
+<a href="https://wakatime.com/@ab58ebee-db8e-439e-89f0-114d374de517">
+  <img src="https://wakatime.com/badge/user/ab58ebee-db8e-439e-89f0-114d374de517.svg" alt="Total time coded since Apr 12 2026" />
+</a>
+
+<!-- WakaTime Stats Card -->
+<a href="https://wakatime.com/@ab58ebee-db8e-439e-89f0-114d374de517">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ab58ebee-db8e-439e-89f0-114d374de517&theme=tokyonight&border_color=7480ff&bg_color=0d1117&title_color=7480ff&icon_color=7480ff" width="800" />
 </a>
  
 ---
