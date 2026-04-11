@@ -98,12 +98,22 @@
 </p>
 
 <h3 align="left">My GitHub profile stats:</h3>
-
+ 
+---
+ 
+### 📊 My GitHub profile stats:
+ 
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=matteomgr2008&show_icons=true&locale=en&layout=compact&theme=tokyonight&border_color=7480ff&bg_color=0d1117&title_color=7480ff&icon_color=7480ff)](https://github.com/anuraghazra/github-readme-stats)
+ 
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=matteomgr2008&show_icons=true&locale=en&theme=tokyonight&count_private=true&include_all_commits=true&border_color=7480ff&bg_color=0d1117&title_color=7480ff&icon_color=7480ff)](https://github.com/anuraghazra/github-readme-stats)
+ 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=matteomgr2008&theme=tokyonight&background=0d1117&border=7480ff&ring=7480ff&fire=7480ff&currStreakLabel=7480ff)](https://git.io/streak-stats)
+ 
 ---
  
 ### 🏅 GitHub Activity Graph:
  
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=matteomgr2008&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=matteomgr2008&theme=tokyo-night&bg_color=0d1117&color=7480ff&line=7480ff&point=7480ff&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
  
 ---
  
@@ -126,3 +136,4 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
 </p>
+ 
