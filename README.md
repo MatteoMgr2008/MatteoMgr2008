@@ -119,8 +119,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=matteomgr2008&show_icons=true&locale=en&layout=compact&theme=tokyonight&border_color=7480ff&bg_color=0d1117&title_color=7480ff&icon_color=7480ff" width="100%" />
 </a>
  
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=matteomgr2008&show_icons=true&locale=en&theme=tokyonight&count_private=true&include_all_commits=true&border_color=7480ff&bg_color=0d1117&title_color=7480ff&icon_color=7480ff" width="100%" />
+<a href="https://github.com/MatteoMgr2008">
+  <img src="https://github-readme-stats.vercel.app/api?username=matteomgr2008&show_icons=true&theme=tokyonight&border_color=7480ff&bg_color=0d1117&title_color=7480ff&icon_color=7480ff" width="100%" />
 </a>
  
 <a href="https://git.io/streak-stats">
