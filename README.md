@@ -31,7 +31,8 @@
 
 ---
 
-<h3>🌐 My social and community accounts:</h3>
+### 🌐 My social and community accounts:
+
 <table>
   <tr>
     <td><a href="https://stackoverflow.com/users/25894280" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="25894280" height="30" width="40"/></a></td>
@@ -40,7 +41,8 @@
   </tr>
 </table>
 
-<h3>🛠️ Languages and Tools:</h3>
+### 🛠️ Languages and Tools:
+
 <table>
   <tr>
     <td><a href="https://developer.android.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/></a></td>
