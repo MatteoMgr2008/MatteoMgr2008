@@ -29,12 +29,6 @@
 - 📄 Know about my experiences **World record for sitting on a chair... maybe?**
 - ⚡ Fun fact **I never remember to put the ";" at the end of a line of code😅**
 
----
-
-<table>
-  <tr>
-    <td valign="top">
-
 ### 🌐 My social and community accounts:
 
 <p align="left">
