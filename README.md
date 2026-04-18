@@ -103,7 +103,7 @@
 ### ⏱️ WakaTime Stats:
 
 <a href="https://wakatime.com/@ab58ebee-db8e-439e-89f0-114d374de517">
-  <img src="https://wakatime.com/badge/user/ab58ebee-db8e-439e-89f0-114d374de517.svg" alt="Total time coded since Apr 12 2026" />
+  <img src="https://wakatime.com/badge/user/ab58ebee-db8e-439e-89f0-114d374de517.svg" alt="Total time coded since Apr 12 2026" width="100%" />
 </a>
 
 <a href="https://wakatime.com/@ab58ebee-db8e-439e-89f0-114d374de517">
