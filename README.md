@@ -29,26 +29,16 @@
 - 📄 Know about my experiences **World record for sitting on a chair... maybe?**
 - ⚡ Fun fact **I never remember to put the ";" at the end of a line of code😅**
 
-### 🌐 My social and community accounts:
+---
 
-<p align="left">
-<a href="https://stackoverflow.com/users/25894280" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="25894280" height="30" width="40" /></a>
-<a href="https://kaggle.com/matteomgr2008" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="matteomgr2008" height="30" width="40" /></a>
-<a href="https://medium.com/@matteo.mgr08" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@matteo.mgr08" height="30" width="40" /></a>
-</p>
+<strong>🌐 My social and community accounts:</strong><br>
+<a href="https://stackoverflow.com/users/25894280" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="25894280" height="30" width="40" /></a>
+<a href="https://kaggle.com/matteomgr2008" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="matteomgr2008" height="30" width="40" /></a>
+<a href="https://medium.com/@matteo.mgr08" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@matteo.mgr08" height="30" width="40" /></a>
 
-</td>
-<td valign="top">
+<br><br>
 
-<p align="left">
-<strong>🌐 Social</strong> &nbsp;
-<a href="https://stackoverflow.com/users/25894280" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="25894280" height="30" width="40" /></a>
-<a href="https://kaggle.com/matteomgr2008" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="matteomgr2008" height="30" width="40" /></a>
-<a href="https://medium.com/@matteo.mgr08" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@matteo.mgr08" height="30" width="40" /></a>
-&nbsp;&nbsp;|&nbsp;&nbsp;
-  
-<strong>🛠️ Languages and Tools</strong> &nbsp;
-
+<strong>🛠️ Languages and Tools:</strong><br>
 <a href="https://developer.android.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/></a>
 <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/></a>
 <a href="https://www.blender.org/" target="_blank" rel="noreferrer"><img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/></a>
@@ -68,7 +58,8 @@
 <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/></a>
 <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/></a>
 <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/></a>
-</p>
+
+---
 
 ### 📊 My GitHub profile stats:
 
