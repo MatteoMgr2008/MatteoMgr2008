@@ -12,7 +12,7 @@
 </a>
 
 <a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy-liard-delta.vercel.app/?username=MatteoMgr2008&theme=tokyonight" width="100%" />
+  <img src="https://github-profile-trophy-liard-delta.vercel.app/?username=matteomgr2008&theme=tokyonight" width="100%" />
 </a>
 
 ---
