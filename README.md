@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Matteo Magrino🇮🇹</h1>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=30363d&height=2" width="100%"/>
-</p>
-
-<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer" width="100%"/>
 </p>
 
