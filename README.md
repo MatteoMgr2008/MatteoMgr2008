@@ -2,9 +2,7 @@
   <ul align="center" style="list-style: none">
     <summary>
       <h1>
-        Hi
-        <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
-        , I'm Matteo Magrino
+        Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Matteo Magrino
         <img src="https://www.worldometers.info/img/flags/it-flag.gif" width="35">
       </h1>
     </summary>
