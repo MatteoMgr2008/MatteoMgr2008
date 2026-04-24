@@ -1,4 +1,7 @@
 <h1 align="center">Hi 👋, I'm Matteo Magrino🇮🇹</h1>
+
+<img alt="divider" width="100%" height="12" src="https://capsule-render.vercel.app/api?type=rect&color=timeGradient&height=12&section=header&text=&fontSize=0&animation=fadeIn" />
+
 <h3 align="center">An 🇮🇹Italian🇮🇹 student (and developer in my free time) studying IT, Computer Science (CS), and Telecommunications.</h3>
 
 <img alt="Coding" width="1400" src="https://i.pinimg.com/originals/a2/8c/1f/a28c1fcf0708f88fc1bb6d7f95d355ae.jpg">
