@@ -17,7 +17,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer" width="100%"/>
 </p>
 
-<h3 align="center">An <img src="https://www.worldometers.info/img/flags/it-flag.gif" width="20">Italian<img src="https://www.worldometers.info/img/flags/it-flag.gif" width="20"> student (and developer in my free time) studying IT, Computer Science (CS), and Telecommunications.</h3>
+<h3 align="center">An <img src="https://www.worldometers.info/img/flags/it-flag.gif" width="23">Italian<img src="https://www.worldometers.info/img/flags/it-flag.gif" width="23"> student (and developer in my free time) studying IT, Computer Science (CS), and Telecommunications.</h3>
 
 <img alt="Coding" width="1400" src="https://i.pinimg.com/originals/a2/8c/1f/a28c1fcf0708f88fc1bb6d7f95d355ae.jpg">
 
