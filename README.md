@@ -119,7 +119,9 @@
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=matteomgr2008&theme=tokyonight&border_color=7480ff&bg_color=0d1117&title_color=7480ff&icon_color=7480ff" width="100%" />
 </a>
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=30363d&height=2" width="100%"/>
+</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer" width="100%"/>
