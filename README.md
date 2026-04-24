@@ -11,7 +11,7 @@
   <img src="https://komarev.com/ghpvc/?username=matteomgr2008&label=Profile%20views&color=0e75b6&style=flat" width="100%" />
 </a>
 
-<table><tr><td height="3"></td></tr></table>
+<img alt="" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///ywAAAAAAQABAAACAUwAOw==" width="1" height="6" />
 
 <a href="https://github.com/ryo-ma/github-profile-trophy">
   <img src="https://github-profile-trophy.screw-hand.vercel.app/?username=matteomgr2008&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&row=1&column=7" width="100%" />
