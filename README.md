@@ -1,3 +1,16 @@
+<div id="toc">
+  <ul align="center" style="list-style: none">
+    <summary>
+      <h1>
+        Hi
+        <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+        , I'm Matteo Magrino
+        <img src="https://media.giphy.com/media/l4FGmHTcdl3R4jGli/giphy.gif" width="35">
+      </h1>
+    </summary>
+  </ul>
+</div>
+
 <h1 align="center">Hi 👋, I'm Matteo Magrino🇮🇹</h1>
 
 <p align="center">
