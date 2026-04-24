@@ -5,13 +5,11 @@
         Hi
         <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
         , I'm Matteo Magrino
-        <img src="https://media.giphy.com/media/l4FGmHTcdl3R4jGli/giphy.gif" width="35">
+        <img src="https://www.worldometers.info/img/flags/it-flag.gif" width="35">
       </h1>
     </summary>
   </ul>
 </div>
-
-<h1 align="center">Hi 👋, I'm Matteo Magrino🇮🇹</h1>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=30363d&height=2" width="100%"/>
