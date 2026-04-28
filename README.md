@@ -61,7 +61,7 @@
   </tr>
 </table>
 
-### 🛠️ Languages and Tools:
+### 🛠️ Languages and tools:
 
 <table>
   <tr>
@@ -105,7 +105,7 @@
 
 ---
 
-### 🏅 GitHub Activity Graph:
+### 🏅 GitHub activity graph:
 
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=matteomgr2008&theme=tokyo-night&bg_color=0d1117&color=7480ff&line=7480ff&point=7480ff&area=true" width="100%" />
@@ -113,7 +113,7 @@
 
 ---
 
-### 🐍 Contribution Snake:
+### 🐍 Contribution snake:
 
 <!-- Attivare prima la GitHub Action snake.yml, poi decommentare -->
 <!-- <a href="https://github.com/MatteoMgr2008">
@@ -122,7 +122,7 @@
 
 ---
 
-### ⏱️ WakaTime Stats:
+### ⏱️ WakaTime stats:
 
 <a href="https://wakatime.com/@ab58ebee-db8e-439e-89f0-114d374de517">
   <img src="https://wakatime.com/badge/user/ab58ebee-db8e-439e-89f0-114d374de517.svg" alt="Total time coded since Apr 12 2026" width="100%" />
