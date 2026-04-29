@@ -2,3 +2,4 @@
 *.yaml linguist-detectable=true
 .github/workflows/*.yml linguist-language=YAML
 .github/workflows/*.yml linguist-detectable=true
+.github/workflows/*.yml linguist-detectable
