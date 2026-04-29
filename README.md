@@ -115,11 +115,6 @@
 
 ### 🐍 Contribution snake:
 
-<!-- Attivare prima la GitHub Action snake.yml, poi decommentare -->
-<!-- <a href="https://github.com/MatteoMgr2008">
-  <img src="https://github.com/MatteoMgr2008/MatteoMgr2008/blob/output/github-contribution-grid-snake-dark.svg" width="100%" />
-</a> -->
-
 ---
 
 ### ⏱️ WakaTime stats:
