@@ -1,1 +1,44 @@
+name: Contribution Snake Github
 
+on:
+  # Esecuzione automatica ogni giorno a mezzanotte UTC
+  schedule:
+    - cron: "0 0 * * *"
+
+  # Permette di avviare la Action manualmente dalla tab Actions
+  workflow_dispatch:
+
+# Necessario per fare il push sul branch contribution-snake-output, senza questo la Action fallisce
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    # Macchina virtuale gratuita per repository pubblici
+    runs-on: ubuntu-latest
+
+    steps:
+
+      # STEP 1: scarica il contenuto del repo sulla macchina virtuale
+      - uses: actions/checkout@v4
+
+      # STEP 2: legge la contribution graph dell'account, calcola il percorso della snake e genera i file SVG nella cartella dist/
+      - uses: Platane/snk@v3
+        with:
+          # Viene indicato l'username GitHub da cui leggere la contribution graph
+          github_user_name: MatteoMgr2008
+
+          # Genera due versioni: una per il tema chiaro e una per il tema scuro di GitHub
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      # STEP 3: pubblica i file SVG generati nella cartella dist/ sul branch output,
+      # il branch viene creato automaticamente se non esiste e rimane separato dal main
+      - uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: contribution-snake-output
+          build_dir: dist
+        env:
+          # Token generato automaticamente da GitHub, non è necessario crearlo da zero.
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
