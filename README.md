@@ -55,10 +55,11 @@
 
 <table>
   <tr>
+    <td><a href="https://github.com/MatteoMgr2008" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="MatteoMgr2008" height="30" width="40"/></a></td>
+    <td><a href="https://www.linkedin.com/in/matteo-magrino-790a90381" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="matteo-magrino-790a90381" height="30" width="40"/></a></td>
     <td><a href="https://stackoverflow.com/users/25894280" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="25894280" height="30" width="40"/></a></td>
     <td><a href="https://kaggle.com/matteomgr2008" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="matteomgr2008" height="30" width="40"/></a></td>
     <td><a href="https://medium.com/@matteo.mgr08" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@matteo.mgr08" height="30" width="40"/></a></td>
-    <td><a href="https://www.linkedin.com/in/matteo-magrino-790a90381" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="matteo-magrino-790a90381" height="30" width="40"/></a></td>
   </tr>
 </table>
 
