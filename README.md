@@ -41,7 +41,7 @@
 
 - 🔭 I'm currently working on **My PC**
 - 🌱 I'm currently learning **Python, HTML, CSS, JS, C & C++**
-- 👯 I'm looking to collaborate on [Gruppo di informatica e di robotica "int theprodev;" 2°D INFO](https://github.com/Istituto-freudinttheprodev)
+- 👯 I'm looking to collaborate on [Gruppo di informatica e di robotica "int theprodev;" 2°D INFO A.S. 2023/2024](https://github.com/Istituto-freudinttheprodev)
 - 🤝 I'm looking for help with **Nobody... depends!**
 - 👨‍💻 All of my projects are available at [My Github Profile (here in this page)](https://github.com/MatteoMgr2008)
 - 📝 I regularly write articles in **My mind when I'm in bathroom and while i doing the...**
