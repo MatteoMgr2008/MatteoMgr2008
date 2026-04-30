@@ -61,6 +61,7 @@
     <td><a href="https://kaggle.com/matteomgr2008" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="matteomgr2008" height="30" width="40"/></a></td>
     <td><a href="https://medium.com/@matteo.mgr08" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@matteo.mgr08" height="30" width="40"/></a></td>
     <td><a href="https://www.reddit.com/user/Quick-Secret5522" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/reddit.svg" alt="Quick-Secret5522" height="30" width="40"/></a></td>
+    <td><a href="https://www.twitch.tv/matteomgr_2008" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitch.svg" alt="matteomgr_2008" height="30" width="40"/></a></td>
   </tr>
 </table>
 
