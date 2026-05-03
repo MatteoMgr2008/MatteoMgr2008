@@ -51,7 +51,7 @@
 
 ---
 
-### 🌐 My social and community accounts:
+### 🌐 My social and Community accounts:
 
 <table>
   <tr>
