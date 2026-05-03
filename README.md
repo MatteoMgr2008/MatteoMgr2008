@@ -69,7 +69,7 @@
   </tr>
 </table>
 
-<a href="https://www.codewars.com/users/MatteoMgr2008" target="blank"><img src="https://www.codewars.com/users/MatteoMgr2008/badges/small" alt="MatteoMgr2008"/></a>
+<a href="https://www.codewars.com/users/MatteoMgr2008" target="blank"><img src="https://www.codewars.com/users/MatteoMgr2008/badges/large" alt="MatteoMgr2008"/></a>
 
 ### 🛠️ Languages and tools:
 
