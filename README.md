@@ -55,16 +55,16 @@
 
 <table>
   <tr>
-    <td><a href="mailto:matteo.mgr8@outlook.it" target="blank"><img src="https://upload.wikimedia.org/wikipedia/commons/d/df/Microsoft_Office_Outlook_%282018%E2%80%93present%29.svg" alt="matteo.mgr8@outlook.it" height="30" width="40"/></a></td>
-    <td><a href="https://github.com/MatteoMgr2008" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="MatteoMgr2008" height="30" width="40"/></a></td>
-    <td><a href="https://www.linkedin.com/in/matteo-magrino-790a90381" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="matteo-magrino-790a90381" height="30" width="40"/></a></td>
-    <td><a href="https://stackoverflow.com/users/25894280" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="25894280" height="30" width="40"/></a></td>
-    <td><a href="https://kaggle.com/matteomgr2008" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="matteomgr2008" height="30" width="40"/></a></td>
-    <td><a href="https://medium.com/@matteo.mgr08" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@matteo.mgr08" height="30" width="40"/></a></td>
-    <td><a href="https://leetcode.com/u/matteomgr2008" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="matteomgr2008" height="30" width="40"/></a></td>
-    <td><a href="https://www.reddit.com/user/Quick-Secret5522" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/reddit.svg" alt="Quick-Secret5522" height="30" width="40"/></a></td>
-    <td><a href="https://www.youtube.com/@MatteoFerrazzi-2008" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="MatteoFerrazzi-2008" height="30" width="40"/></a></td>
-    <td><a href="https://www.twitch.tv/matteomgr_2008" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitch.svg" alt="matteomgr_2008" height="30" width="40"/></a></td>
+    <td><a href="mailto:matteo.mgr8@outlook.it" target="blank"><img src="assets/email.svg" alt="matteo.mgr8@outlook.it" height="30" width="40"/></a></td>
+    <td><a href="https://github.com/MatteoMgr2008" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/main/src/images/icons/Social/github.svg" alt="MatteoMgr2008" height="30" width="40"/></a></td>
+    <td><a href="https://www.linkedin.com/in/matteo-magrino-790a90381" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/main/src/images/icons/Social/linked-in-alt.svg" alt="matteo-magrino-790a90381" height="30" width="40"/></a></td>
+    <td><a href="https://stackoverflow.com/users/25894280" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/main/src/images/icons/Social/stack-overflow.svg" alt="25894280" height="30" width="40"/></a></td>
+    <td><a href="https://kaggle.com/matteomgr2008" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/main/src/images/icons/Social/kaggle.svg" alt="matteomgr2008" height="30" width="40"/></a></td>
+    <td><a href="https://medium.com/@matteo.mgr08" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/main/src/images/icons/Social/medium.svg" alt="@matteo.mgr08" height="30" width="40"/></a></td>
+    <td><a href="https://leetcode.com/u/matteomgr2008" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/main/src/images/icons/Social/leet-code.svg" alt="matteomgr2008" height="30" width="40"/></a></td>
+    <td><a href="https://www.reddit.com/user/Quick-Secret5522" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/main/src/images/icons/Social/reddit.svg" alt="Quick-Secret5522" height="30" width="40"/></a></td>
+    <td><a href="https://www.youtube.com/@MatteoFerrazzi-2008" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/main/src/images/icons/Social/youtube.svg" alt="MatteoFerrazzi-2008" height="30" width="40"/></a></td>
+    <td><a href="https://www.twitch.tv/matteomgr_2008" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/main/src/images/icons/Social/twitch.svg" alt="matteomgr_2008" height="30" width="40"/></a></td>
     <td><a href="https://t.me/Matteo_Mgr_2008" target="blank"><img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="Matteo_Mgr_2008" height="30" width="40"/></a></td>
   </tr>
 </table>
