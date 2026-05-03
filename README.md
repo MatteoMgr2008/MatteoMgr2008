@@ -67,6 +67,7 @@
     <td><a href="https://www.twitch.tv/matteomgr_2008" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/main/src/images/icons/Social/twitch.svg" alt="matteomgr_2008" height="30" width="40"/></a></td>
     <td><a href="https://t.me/Matteo_Mgr_2008" target="blank"><img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="Matteo_Mgr_2008" height="30" width="40"/></a></td>
   </tr>
+  <td><a href="https://www.codewars.com/users/MatteoMgr2008" target="blank"><img src="https://www.codewars.com/users/MatteoMgr2008/badges/small" alt="MatteoMgr2008" height="30"/></a></td>
 </table>
 
 ### 🛠️ Languages and tools:
