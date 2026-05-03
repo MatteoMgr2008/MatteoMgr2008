@@ -65,6 +65,7 @@
     <td><a href="https://www.reddit.com/user/Quick-Secret5522" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/main/src/images/icons/Social/reddit.svg" alt="Quick-Secret5522" height="30" width="40"/></a></td>
     <td><a href="https://www.youtube.com/@MatteoFerrazzi-2008" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/main/src/images/icons/Social/youtube.svg" alt="MatteoFerrazzi-2008" height="30" width="40"/></a></td>
     <td><a href="https://www.twitch.tv/matteomgr_2008" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/main/src/images/icons/Social/twitch.svg" alt="matteomgr_2008" height="30" width="40"/></a></td>
+    <td><a href="https://vimeo.com/user258162556" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/vimeo.svg" alt="user258162556" height="30" width="40"/></a></td>
     <td><a href="https://t.me/Matteo_Mgr_2008" target="blank"><img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="Matteo_Mgr_2008" height="30" width="40"/></a></td>
   </tr>
 </table>
