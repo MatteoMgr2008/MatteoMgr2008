@@ -154,7 +154,7 @@
 </a>
 
 <a href="https://wakatime.com/@ab58ebee-db8e-439e-89f0-114d374de517">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/wakatime?username=matteomgr2008&theme=tokyonight&border_color=7480ff&bg_color=0d1117&title_color=7480ff&icon_color=7480ff" width="100%" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/wakatime?username=matteomgr2008&theme=tokyonight&border_color=7480ff&bg_color=0d1117&title_color=7480ff&icon_color=7480ff" width="100%" />
 </a>
 
 <p align="center">
