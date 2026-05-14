@@ -106,15 +106,15 @@
 ### 📊 My GitHub profile stats:
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=matteomgr2008&show_icons=true&locale=en&layout=compact&theme=tokyonight&border_color=478be6&bg_color=0d1117&title_color=7480ff&icon_color=7480ff" width="100%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=matteomgr2008&show_icons=true&locale=en&layout=compact&theme=tokyonight&border_color=7480ff&bg_color=0d1117&title_color=7480ff&icon_color=7480ff&v=1" width="100%" />
 </a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=matteomgr2008&show_icons=true&locale=en&theme=tokyonight&count_private=true&include_all_commits=true&border_color=478be6&bg_color=0d1117&title_color=7480ff&icon_color=7480ff" width="100%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=matteomgr2008&show_icons=true&locale=en&theme=tokyonight&count_private=true&include_all_commits=true&border_color=7480ff&bg_color=0d1117&title_color=7480ff&icon_color=7480ff&v=1" width="100%" />
 </a>
 
 <a href="https://git.io/streak-stats">
-  <img src="https://streak-stats.demolab.com?user=matteomgr2008&theme=tokyonight&background=0d1117&border=478be6&ring=7480ff&fire=7480ff&currStreakLabel=7480ff" width="100%" />
+  <img src="https://streak-stats.demolab.com?user=matteomgr2008&theme=tokyonight&background=0d1117&border=7480ff&ring=7480ff&fire=7480ff&currStreakLabel=7480ff&v=1" width="100%" />
 </a>
 
 ---
@@ -154,7 +154,7 @@
 </a>
 
 <a href="https://wakatime.com/@ab58ebee-db8e-439e-89f0-114d374de517">
-  <img src="https://github-readme-stats-fast.vercel.app/api/wakatime?username=matteomgr2008&theme=tokyonight&border_color=478be6&bg_color=0d1117&title_color=7480ff&icon_color=7480ff" width="100%" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/wakatime?username=matteomgr2008&theme=tokyonight&border_color=7480ff&bg_color=0d1117&title_color=7480ff&icon_color=7480ff&v=1" width="100%" />
 </a>
 
 <p align="center">
