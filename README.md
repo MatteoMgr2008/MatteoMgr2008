@@ -114,7 +114,7 @@
 </a>
 
 <a href="https://git.io/streak-stats">
-  <img src="https://streak-stats.demolab.com?user=matteomgr2008&theme=tokyonight&background=0d1117&border=7480ff&ring=7480ff&fire=7480ff&currStreakLabel=7480ff&v=1" width="100%" />
+  <img src="https://streak-stats.demolab.com?user=matteomgr2008&theme=tokyonight&background=0d1117&hide_border=true&ring=7480ff&fire=7480ff&currStreakLabel=7480ff&v=1" width="100%" />
 </a>
 
 ---
