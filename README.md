@@ -55,7 +55,7 @@
 
 <table>
   <tr>
-    <td><a href="mailto:matteo.mgr8@outlook.it" target="blank"><img src="https://commons.wikimedia.org/wiki/Special:Redirect/file/Microsoft_Outlook_Icon_%282025%E2%80%93present%29.svg" alt="matteo.mgr8@outlook.it" title="Outlook" height="30" width="40"/></a></td>
+    <td><a href="mailto:matteo.mgr8@outlook.it" target="blank"><img src="https://commons.wikimedia.org/wiki/Special:Redirect/file/Microsoft_Outlook_Icon_%282025%E2%80%93present%29.svg" alt="matteo.mgr8@outlook.it" title="Email" height="30" width="40"/></a></td>
     <td><a href="https://github.com/MatteoMgr2008" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/main/src/images/icons/Social/github.svg" alt="MatteoMgr2008" title="GitHub" height="30" width="40"/></a></td>
     <td><a href="https://www.linkedin.com/in/matteo-magrino-790a90381" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/main/src/images/icons/Social/linked-in-alt.svg" alt="matteo-magrino-790a90381" title="LinkedIn" height="30" width="40"/></a></td>
     <td><a href="https://t.me/Matteo_Mgr_2008" target="blank"><img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="Matteo_Mgr_2008" title="Telegram" height="30" width="40"/></a></td>
