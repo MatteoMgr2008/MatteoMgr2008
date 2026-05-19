@@ -122,7 +122,7 @@
 ### 🏅 GitHub activity graph:
 
 <a href="https://github.com/MatteoMgr2008/Statistiche-commit-GitHub-README">
-  <img src="https://statistiche-commit-git-hub-readme.vercel.app/graph?username=matteomgr2008&theme=tokyo-night&bg_color=0d1117&color=7480ff&line=7480ff&point=7480ff&area=true&border_color=7480ff&radius=4.5" width="100%" />
+  <img src="https://statistiche-commit-git-hub-readme.vercel.app/graph?username=matteomgr2008&theme=tokyo-night&bg_color=0d1117&color=7480ff&line=7480ff&point=7480ff&area=true&border_color=7480ff&radius=10" width="100%" />
 </a>
 
 ---
