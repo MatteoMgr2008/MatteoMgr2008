@@ -106,11 +106,11 @@
 ### 📊 My GitHub profile stats:
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://statistiche-git-hub-readme.vercel.app/api/top-langs?username=matteomgr2008&show_icons=true&locale=en&layout=compact&theme=tokyonight&border_color=7480ff&bg_color=0d1117&title_color=7480ff&icon_color=7480ff&v=1" width="100%" />
+  <img src="https://statistiche-git-hub-readme.vercel.app/api/top-langs?username=matteomgr2008&show_icons=true&locale=it&layout=compact&theme=tokyonight&border_color=7480ff&bg_color=0d1117&title_color=7480ff&icon_color=7480ff&v=1" width="100%" />
 </a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://statistiche-git-hub-readme.vercel.app/api?username=matteomgr2008&show_icons=true&locale=en&theme=tokyonight&count_private=true&include_all_commits=true&border_color=7480ff&bg_color=0d1117&title_color=7480ff&icon_color=7480ff&v=1" width="100%" />
+  <img src="https://statistiche-git-hub-readme.vercel.app/api?username=matteomgr2008&show_icons=true&locale=it&theme=tokyonight&count_private=true&include_all_commits=true&border_color=7480ff&bg_color=0d1117&title_color=7480ff&icon_color=7480ff&v=1" width="100%" />
 </a>
 
 <a href="https://git.io/streak-stats">
