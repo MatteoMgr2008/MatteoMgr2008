@@ -113,8 +113,8 @@
   <img src="https://statistiche-git-hub-readme.vercel.app/api?username=matteomgr2008&show_icons=true&locale=it&theme=tokyonight&count_private=true&include_all_commits=true&border_color=7480ff&bg_color=0d1117&title_color=7480ff&icon_color=7480ff&v=1" width="100%" />
 </a>
 
-<a href="https://git.io/streak-stats">
-  <img src="https://streak-stats.demolab.com?user=matteomgr2008&locale=it&theme=tokyonight&background=0d1117&border=7480ff&border_radius=10&ring=7480ff&fire=7480ff&currStreakLabel=7480ff&v=1" width="100%" />
+<a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+  <img src="https://streak-stats.demolab.com/?user=matteomgr2008&amp;locale=it&amp;theme=tokyonight&amp;background=0d1117&amp;border=7480ff&amp;border_radius=10&amp;ring=7480ff&amp;fire=7480ff&amp;currStreakLabel=7480ff&amp;v=1" width="100%" />
 </a>
 
 ---
