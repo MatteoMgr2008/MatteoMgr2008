@@ -114,15 +114,15 @@
 </a>
 
 <a href="https://git.io/streak-stats">
-  <img src="https://streak-stats.demolab.com?user=matteomgr2008&theme=tokyonight&background=0d1117&border=7480ff&border_radius=10&ring=7480ff&fire=7480ff&currStreakLabel=7480ff&v=1" width="100%" />
+  <img src="https://streak-stats.demolab.com?user=matteomgr2008&locale=it&theme=tokyonight&background=0d1117&border=7480ff&border_radius=10&ring=7480ff&fire=7480ff&currStreakLabel=7480ff&v=1" width="100%" />
 </a>
 
 ---
 
-### 🏅 GitHub activity graph:
+### 🏅 Grafico attività GitHub:
 
 <a href="https://github.com/MatteoMgr2008/Statistiche-commit-GitHub-README">
-  <img src="https://statistiche-commit-git-hub-readme.vercel.app/graph?username=matteomgr2008&theme=tokyo-night&bg_color=0d1117&color=7480ff&line=7480ff&point=7480ff&area=true&border_color=7480ff&radius=10" width="100%" />
+  <img src="https://statistiche-commit-git-hub-readme.vercel.app/graph?username=matteomgr2008&theme=tokyo-night&custom_title=Grafico%20dei%20contributi%20di%20Matteo%20Magrino&bg_color=0d1117&color=7480ff&line=7480ff&point=7480ff&area=true&border_color=7480ff&radius=10" width="100%" />
 </a>
 
 ---
