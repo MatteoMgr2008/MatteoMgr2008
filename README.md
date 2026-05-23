@@ -153,6 +153,8 @@
   <img src="https://wakatime.com/badge/user/ab58ebee-db8e-439e-89f0-114d374de517.svg" alt="Total time coded since Apr 12 2026" width="100%" />
 </a>
 
+<img alt="" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///ywAAAAAAQABAAACAUwAOw==" width="1" height="3" />
+
 <a href="https://wakatime.com/@ab58ebee-db8e-439e-89f0-114d374de517">
   <img src="https://github-readme-stats-fast.vercel.app/api/wakatime?username=matteomgr2008&theme=tokyonight&border_color=7480ff&bg_color=0d1117&title_color=7480ff&icon_color=7480ff&v=2" width="100%" />
 </a>
