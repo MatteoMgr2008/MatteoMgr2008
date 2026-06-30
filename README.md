@@ -106,15 +106,15 @@
 ### 📊 My GitHub profile stats:
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://statistiche-git-hub-readme.vercel.app/api/top-langs?username=matteomgr2008&show_icons=true&locale=it&layout=compact&theme=tokyonight&border_color=7480ff&bg_color=0d1117&title_color=7480ff&icon_color=7480ff&v=1" width="100%" />
+  <img src="https://statistiche-git-hub-readme.vercel.app/api/top-langs?username=matteomgr2008&show_icons=true&locale=it&layout=compact&theme=tokyonight&border_color=7480ff&bg_color=0d1117&title_color=7480ff&icon_color=7480ff&v=1.1" width="100%" />
 </a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://statistiche-git-hub-readme.vercel.app/api?username=matteomgr2008&show_icons=true&locale=it&theme=tokyonight&count_private=true&include_all_commits=true&border_color=7480ff&bg_color=0d1117&title_color=7480ff&icon_color=7480ff&v=1" width="100%" />
+  <img src="https://statistiche-git-hub-readme.vercel.app/api?username=matteomgr2008&show_icons=true&locale=it&theme=tokyonight&count_private=true&include_all_commits=true&border_color=7480ff&bg_color=0d1117&title_color=7480ff&icon_color=7480ff&v=1.1" width="100%" />
 </a>
 
 <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-  <img src="https://streak-stats.vercel.app/?user=matteomgr2008&locale=it&theme=tokyonight&background=0d1117&border=7480ff&border_radius=4.5&ring=7480ff&fire=7480ff&currStreakLabel=7480ff&v=4" width="100%" />
+  <img src="https://streak-stats.vercel.app/?user=matteomgr2008&locale=it&theme=tokyonight&background=0d1117&border=7480ff&border_radius=4.5&ring=7480ff&fire=7480ff&currStreakLabel=7480ff&v=1.1" width="100%" />
 </a>
 
 ---
@@ -156,7 +156,7 @@
 <img alt="" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///ywAAAAAAQABAAACAUwAOw==" width="1" height="3" />
 
 <a href="https://wakatime.com/@ab58ebee-db8e-439e-89f0-114d374de517">
-  <img src="https://github-readme-stats-fast.vercel.app/api/wakatime?username=matteomgr2008&theme=tokyonight&border_color=7480ff&bg_color=0d1117&title_color=7480ff&icon_color=7480ff&v=2&locale=it" width="100%" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/wakatime?username=matteomgr2008&theme=tokyonight&border_color=7480ff&bg_color=0d1117&title_color=7480ff&icon_color=7480ff&v=2&locale=it&v=1.1" width="100%" />
 </a>
 
 <p align="center">
