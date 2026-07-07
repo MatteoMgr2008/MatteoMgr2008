@@ -106,7 +106,7 @@
 ### 📊 My GitHub profile stats:
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://statistiche-git-hub-readme.vercel.app/api/top-langs?username=matteomgr2008&show_icons=true&locale=it&layout=compact&theme=tokyonight&border_color=7480ff&bg_color=0d1117&title_color=7480ff&icon_color=7480ff&v=1.2" width="100%" />
+  <img src="https://statistiche-git-hub-readme.vercel.app/api/top-langs?username=matteomgr2008&show_icons=true&locale=it&layout=compact&theme=tokyonight&border_color=7480ff&bg_color=0d1117&title_color=7480ff&icon_color=7480ff&v=1.3" width="100%" />
 </a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
