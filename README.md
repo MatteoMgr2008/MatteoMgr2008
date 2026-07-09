@@ -114,7 +114,7 @@
 </a>
 
 <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-  <img src="https://streak-stats.demolab.com/?user=matteomgr2008&locale=it&theme=tokyonight&background=0d1117&border=7480ff&border_radius=4.5&ring=7480ff&fire=7480ff&currStreakLabel=7480ff&date_format=d/m/Y" width="100%" />
+  <img src="https://streak-stats.demolab.com/?user=matteomgr2008&locale=it&theme=tokyonight&background=0d1117&border=7480ff&border_radius=4.5&ring=7480ff&fire=7480ff&currStreakLabel=7480ff&date_format=d/m/[Y]&v=1.1" width="100%" />
 </a>
 
 ---
