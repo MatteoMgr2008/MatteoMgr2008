@@ -44,7 +44,7 @@
 - 👯 I'm looking to collaborate on [Gruppo di informatica e di robotica "int theprodev;" 2°D INFO A.S. 2023/2024](https://github.com/Istituto-freudinttheprodev)
 - 🤝 I'm looking for help with **nobody... depends!**
 - 👨‍💻 All of my projects are available at [my GitHub profile (here in this page)](https://github.com/MatteoMgr2008)
-- 📝 I regularly write articles in **my mind when I'm in bathroom and while i doing the...**
+- 📝 I regularly write articles in **my mind when I'm in bathroom and while I doing the...**
 - 💬 Ask me about **how to make a pizza🍕... no it's a joke, I'm not a pizza chef!!!**
 - 📄 Know about my experiences: **world record for sitting on a chair... maybe?**
 - ⚡ Fun fact: **I never remember to put the ";" at the end of a line of code😅**
